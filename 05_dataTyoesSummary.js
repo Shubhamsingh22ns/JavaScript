@@ -41,5 +41,7 @@ console.log(typeof bigNumber); // bigint
 console.log(typeof address); // null return type of => object
 console.log(typeof name); // string
 console.log(typeof age); // number
+console.log(typeof greet); // function
+console.log(typeof numbers); // object
 
 
