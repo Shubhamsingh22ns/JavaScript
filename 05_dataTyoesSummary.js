@@ -38,7 +38,7 @@ person.age = 31; // Updating object property
 console.log(person.age); // Accessing object property
 
 console.log(typeof bigNumber); // bigint
-console.log(typeof address); // object
+console.log(typeof address); // null return type of => object
 console.log(typeof name); // string
 console.log(typeof age); // number
 
