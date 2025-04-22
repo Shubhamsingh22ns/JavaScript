@@ -44,4 +44,22 @@ console.log(typeof age); // number
 console.log(typeof greet); // function
 console.log(typeof numbers); // object
 
+//Types of Memory
+// 1. Stack Memory
+// 2. Heap Memory
+// Stack Memory: Primitive data types are stored in stack memory.
+// Heap Memory: Non-primitive data types are stored in heap memory.
+// Stack memory is faster than heap memory.
+// Stack memory is used for static memory allocation.
+// Heap memory is used for dynamic memory allocation.
+// Stack memory is used for function calls.
+// Heap memory is used for objects.
+// Stack memory is used for local variables.
+// Heap memory is used for global variables.
+// Stack memory is used for function parameters.
+// Heap memory is used for objects.
+// Stack memory is used for function return values.
+// Heap memory is used for objects.
+// Stack memory is used for function calls.
+
 
